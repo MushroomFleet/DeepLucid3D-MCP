@@ -70,12 +70,12 @@ The UCPF Server enables advanced cognitive processing through several key featur
    ```json
    {
      "mcpServers": {
-       "ucpf": {
-         "command": "node",
-         "args": ["path/to/DeepLucid3D-UCPF-Server/build/index.js"],
-         "env": {},
-         "disabled": false,
-         "autoApprove": []
+      "ucpf": {
+      "command": "node",
+      "args": ["path/to/DeepLucid3D-MCP/build/index.js"],
+      "env": {},
+      "disabled": false,
+      "autoApprove": []
        }
      }
    }
