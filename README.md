@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server implementing the Unified Cognitive Processing Framework (UCPF) for advanced cognitive analysis, creative problem-solving, and structured thinking.
 
+<a href="https://glama.ai/mcp/servers/@MushroomFleet/DeepLucid3D-MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@MushroomFleet/DeepLucid3D-MCP/badge" alt="DeepLucid3D UCPF Server MCP server" />
+</a>
+
 ## What is it?
 
 The DeepLucid3D UCPF Server is an implementation of the Unified Cognitive Processing Framework as an MCP server. It combines recursive self-awareness with dimensional knowledge categorization to provide a powerful approach to problem-solving and creative thinking.
