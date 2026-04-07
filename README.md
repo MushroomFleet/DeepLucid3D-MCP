@@ -258,3 +258,11 @@ DeepLucid3D-UCPF-Server/
 ---
 
 © 2025 DeepLucid3D UCPF Server
+
+## See Also
+
+- [TranscriptionTools-MCP](https://github.com/MushroomFleet/TranscriptionTools-MCP) — Transcript processing
+- [DeepLucid3D-MCP](https://github.com/MushroomFleet/DeepLucid3D-MCP) — Cognitive processing
+- [UNO-MCP](https://github.com/MushroomFleet/UNO-MCP) — Narrative enhancement
+- [gitea-mcp](https://github.com/MushroomFleet/gitea-mcp) — Gitea integration
+- [zero-vector-MCP](https://github.com/MushroomFleet/zero-vector-MCP) — Procedural generation
