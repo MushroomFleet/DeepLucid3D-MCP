@@ -1,5 +1,7 @@
 # DeepLucid3D UCPF Server
 
+[![smithery badge](https://smithery.ai/badge/@MushroomFleet/deeplucid3d-mcp)](https://smithery.ai/server/@MushroomFleet/deeplucid3d-mcp)
+
 A Model Context Protocol (MCP) server implementing the Unified Cognitive Processing Framework (UCPF) for advanced cognitive analysis, creative problem-solving, and structured thinking.
 
 ## What is it?
@@ -35,6 +37,14 @@ The UCPF Server enables advanced cognitive processing through several key featur
 6. **Optional State Management**: Maintains context between sessions for ongoing analysis.
 
 ## Setup and Installation
+
+### Installing via Smithery
+
+To install deeplucid3d-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@MushroomFleet/deeplucid3d-mcp):
+
+```bash
+npx -y @smithery/cli install @MushroomFleet/deeplucid3d-mcp --client claude
+```
 
 ### Prerequisites
 
